@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/italoacasas/redis-middleware/issues"
   },
-  "homepage": "https://github.com/italoacasas/redis-middleware#readme"
+  "homepage": "https://github.com/italoacasas/redis-middleware#readme",
+  "dependencies": {
+    "redis": "^2.6.0-0"
+  },
+  "devDependencies": {
+    "eslint": "^2.5.1"
+  }
 }
