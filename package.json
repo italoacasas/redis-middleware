@@ -1,0 +1,26 @@
+{
+  "name": "redis-middleware",
+  "version": "0.1.0",
+  "description": "Express Middleware for Redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italoacasas/redis-middleware.git"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "node",
+    "middleware",
+    "redis"
+  ],
+  "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/italoacasas/redis-middleware/issues"
+  },
+  "homepage": "https://github.com/italoacasas/redis-middleware#readme"
+}
