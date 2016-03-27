@@ -4,7 +4,7 @@
   "description": "Express Middleware for Redis",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "linter": "eslint .eslintrc.js"
   },
   "repository": {
     "type": "git",
