@@ -1,5 +1,9 @@
 # Redis Express Middleware
 
+[![Dependency Status](https://david-dm.org/italaocasas/redis-middleware.svg)](https://david-dm.org/italaocasas/redis-middleware)
+[![devDependency Status](https://david-dm.org/italaocasas/redis-middleware/dev-status.svg?theme=shields.io)](https://david-dm.org/italaocasas/redis-middleware#info=devDependencies)
+[![Build Status](https://travis-ci.org/italaocasas/redis-middleware.svg?branch=master)](https://travis-ci.org/italaocasas/redis-middleware)
+
 Express Middleware to handle Redis connections
 
 ## Installation
