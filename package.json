@@ -15,7 +15,8 @@
     "expressjs",
     "node",
     "middleware",
-    "redis"
+    "redis",
+    "db"
   ],
   "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
   "license": "MIT",
