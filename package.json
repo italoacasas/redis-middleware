@@ -2,7 +2,7 @@
   "name": "redis-middleware",
   "version": "0.1.0",
   "description": "Express Middleware for Redis",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "linter": "eslint .eslintrc.js"
   },
