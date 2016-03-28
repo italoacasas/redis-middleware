@@ -1,5 +1,7 @@
 # Redis Express Middleware
 
+[![Join the chat at https://gitter.im/italoacasas/redis-middleware](https://badges.gitter.im/italoacasas/redis-middleware.svg)](https://gitter.im/italoacasas/redis-middleware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![npm version](https://badge.fury.io/js/redis-middleware.svg)](https://badge.fury.io/js/redis-middleware)
 [![Build Status](https://travis-ci.org/italoacasas/redis-middleware.svg?branch=master)](https://travis-ci.org/italoacasas/redis-middleware)
 [![Dependency Status](https://david-dm.org/italoacasas/redis-middleware.svg)](https://david-dm.org/italoacasas/redis-middleware)
