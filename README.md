@@ -1,6 +1,6 @@
 # Redis Express Middleware
 
-Redis Middleware for handling Redis connections
+Express Middleware to handle Redis connections
 
 ## Installation
 `npm install --save redis-middleware`
