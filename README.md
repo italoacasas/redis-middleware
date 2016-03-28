@@ -1,9 +1,9 @@
 # Redis Express Middleware
 
 [![npm version](https://badge.fury.io/js/redis-middleware.svg)](https://badge.fury.io/js/redis-middleware)
+[![Build Status](https://travis-ci.org/italoacasas/redis-middleware.svg?branch=master)](https://travis-ci.org/italoacasas/redis-middleware)
 [![Dependency Status](https://david-dm.org/italoacasas/redis-middleware.svg)](https://david-dm.org/italoacasas/redis-middleware)
 [![devDependency Status](https://david-dm.org/italoacasas/redis-middleware/dev-status.svg?theme=shields.io)](https://david-dm.org/italoacasas/redis-middleware#info=devDependencies)
-[![Build Status](https://travis-ci.org/italoacasas/redis-middleware.svg?branch=master)](https://travis-ci.org/italoacasas/redis-middleware)
 
 Express Middleware to handle Redis connections
 
