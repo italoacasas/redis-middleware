@@ -24,9 +24,18 @@ app.post('/', (req, res) => {
 ```
 
 ## Options
-- port -> optional
-- host -> optional
-- options -> optional
+```javascript
+redisMiddleware(port, host, options)
+```
+- `port`
+    - optional
+    - default = 6379
+- `host`
+    - optional
+    - default = localhost
+- `options`
+    - optional
+    - default = {}
 
 ## License
 Copyright (c) 2016 Italo A. Casas <me@italoacasas.com>
