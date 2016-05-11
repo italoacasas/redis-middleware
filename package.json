@@ -1,6 +1,6 @@
 {
   "name": "redis-middleware",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Express Middleware for Redis",
   "main": "lib/index.js",
   "scripts": {
