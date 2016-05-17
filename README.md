@@ -5,6 +5,7 @@
 [![Build Status](https://travis-ci.org/italoacasas/redis-middleware.svg?branch=master)](https://travis-ci.org/italoacasas/redis-middleware)
 [![Dependency Status](https://david-dm.org/italoacasas/redis-middleware.svg)](https://david-dm.org/italoacasas/redis-middleware)
 [![devDependency Status](https://david-dm.org/italoacasas/redis-middleware/dev-status.svg?theme=shields.io)](https://david-dm.org/italoacasas/redis-middleware#info=devDependencies)
+[![NPM](https://nodei.co/npm/redis-middleware.png?downloads=true)](https://nodei.co/npm/redis-middleware/)
 
 Express Middleware to handle Redis connections
 
