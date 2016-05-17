@@ -11,7 +11,7 @@ Express Middleware to handle Redis connections
 ## Installation
 `npm install --save redis-middleware`
 
-## Example
+## Example of Use
 ```javascript
 const app = require('express')();
 const redisMiddleware = require('redis-middleware');
