@@ -8,10 +8,16 @@
 
 Express Middleware to handle Redis connections
 
+## Roadmap
+
+- [ ] Better documentation
+- [ ] Travis CI Integration
+- [ ] 100% coverage test
+
 ## Installation
 `npm install --save redis-middleware`
 
-## Example
+## Example of Use
 ```javascript
 const app = require('express')();
 const redisMiddleware = require('redis-middleware');
