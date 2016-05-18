@@ -35,11 +35,11 @@ app.post('/', (req, res) => {
 redisMiddleware(redisPort, redisHost, redisOptions)
 ```
 
-- port `(optional)`
+- redisPort `(optional)`
     - default = 6379
-- host `(optional)`
+- redisHost `(optional)`
     - default = localhost
-- options `(optional)`
+- redisOptions `(optional)`
     - default = {}
 
 ## License
