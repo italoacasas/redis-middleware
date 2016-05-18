@@ -1,33 +1,35 @@
 {
   "name": "redis-middleware",
-  "version": "1.2.10",
   "description": "Express Middleware for Redis",
-  "main": "lib/index.js",
-  "scripts": {
-    "linter": "eslint .eslintrc.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/italoacasas/redis-middleware.git"
-  },
-  "keywords": [
-    "express",
-    "expressjs",
-    "node",
-    "middleware",
-    "redis",
-    "db"
-  ],
+  "version": "1.2.10",
   "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/italoacasas/redis-middleware/issues"
   },
-  "homepage": "https://github.com/italoacasas/redis-middleware#readme",
   "dependencies": {
     "redis": "^2.6.0-0"
   },
   "devDependencies": {
-    "eslint": "^2.9.0"
+    "eslint": "^2.9.0",
+    "fixpack": "^2.3.1"
+  },
+  "homepage": "https://github.com/italoacasas/redis-middleware#readme",
+  "keywords": [
+    "db",
+    "express",
+    "expressjs",
+    "middleware",
+    "node",
+    "redis"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italoacasas/redis-middleware.git"
+  },
+  "scripts": {
+    "fix": "fixpack",
+    "linter": "eslint .eslintrc.js"
   }
 }
