@@ -11,9 +11,9 @@ Express Middleware to handle Redis connections
 
 ## Roadmap
 
-- Better documentation
 - Travis CI Integration
 - 100% coverage test
+- Improving API
 
 ## Installation
 `npm install --save redis-middleware`
