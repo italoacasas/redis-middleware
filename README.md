@@ -23,25 +23,23 @@ Express Middleware to handle Redis connections
 const app = require('express')();
 const redisMiddleware = require('redis-middleware');
 
-app.use(redisMiddleware(port, host))
+app.use(redisMiddleware(redisPort, redisHost));
 
 app.post('/', (req, res) => {
     req.redis.set(key, value);  
 }
 ```
 
-## Options
+## API
 ```javascript
-redisMiddleware(port, host, options)
+redisMiddleware(redisPort, redisHost, redisOptions)
 ```
-- `port`
-    - optional
+
+- port `(optional)`
     - default = 6379
-- `host`
-    - optional
+- host `(optional)`
     - default = localhost
-- `options`
-    - optional
+- options `(optional)`
     - default = {}
 
 ## License
