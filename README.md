@@ -10,8 +10,6 @@
 Express Middleware to handle Redis connections
 
 ## Roadmap
-
-- Travis CI Integration
 - 100% coverage test
 - Improving API
 
