@@ -7,7 +7,7 @@
     "url": "https://github.com/italoacasas/redis-middleware/issues"
   },
   "dependencies": {
-    "redis": "^2.6.0-0"
+    "redis": "^2.6.2"
   },
   "devDependencies": {
     "@flexshopper/eslint-config-flexshopper": "^3.1.1",
